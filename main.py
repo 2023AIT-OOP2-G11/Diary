@@ -4,9 +4,9 @@ from diaries.ToriiDiary import ToriiDiary
 from diaries.ItoDiary import ItoDiary
 # ↓のリストには、メンバーの各日記が格納されます。 diaries = [DiarySample(), ]
 diaries = [DiarySample(), 
-　　　　　　　　　　　　　　　　　　  YamamotoDiary(),
+           YamamotoDiary(),
            ToriiDiary(),
-    　　　　　　　　　　　　　　ItoDiary(),
+           ItoDiary(),
 ]
 for d in diaries:
     print("---------------------------------")
