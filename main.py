@@ -1,3 +1,4 @@
+from diaries.DiarySample import DiarySample
 from diaries.YamamotoDiary import YamamotoDiary
 from diaries.ToriiDiary import ToriiDiary
 from diaries.ItoDiary import ItoDiary
